@@ -3,7 +3,7 @@
 Landing page do curso de Harmonização Facial Multicamadas com o Dr. Gabriel Machado,
 trazido a Portugal pela Belinha Cardoso (BeLuxClinic).
 
-**Página publicada:** https://belinhacardoso.github.io/
+**Página publicada:** https://harmonizaçãofacialmulticamadas.com/ (`xn--harmonizaofacialmulticamadas-kmc3j.com`)
 
 ## O evento
 

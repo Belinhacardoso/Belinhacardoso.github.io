@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://belinhacardoso.github.io/sitemap.xml
+Sitemap: https://xn--harmonizaofacialmulticamadas-kmc3j.com/sitemap.xml
